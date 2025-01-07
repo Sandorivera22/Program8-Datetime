@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Desktop\Fecha_y_Hora\bin\Debug\net9.0\Fecha_y_Hora.exe
+C:\Users\gabri\OneDrive\Desktop\Fecha_y_Hora\bin\Debug\net9.0\Fecha_y_Hora.deps.json
+C:\Users\gabri\OneDrive\Desktop\Fecha_y_Hora\bin\Debug\net9.0\Fecha_y_Hora.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Fecha_y_Hora\bin\Debug\net9.0\Fecha_y_Hora.dll
+C:\Users\gabri\OneDrive\Desktop\Fecha_y_Hora\bin\Debug\net9.0\Fecha_y_Hora.pdb
+C:\Users\gabri\OneDrive\Desktop\Fecha_y_Hora\obj\Debug\net9.0\Fecha_y_Hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Fecha_y_Hora\obj\Debug\net9.0\Fecha_y_Hora.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Fecha_y_Hora\obj\Debug\net9.0\Fecha_y_Hora.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Fecha_y_Hora\obj\Debug\net9.0\Fecha_y_Hora.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Fecha_y_Hora\obj\Debug\net9.0\Fecha_y_Hora.dll
+C:\Users\gabri\OneDrive\Desktop\Fecha_y_Hora\obj\Debug\net9.0\refint\Fecha_y_Hora.dll
+C:\Users\gabri\OneDrive\Desktop\Fecha_y_Hora\obj\Debug\net9.0\Fecha_y_Hora.pdb
+C:\Users\gabri\OneDrive\Desktop\Fecha_y_Hora\obj\Debug\net9.0\Fecha_y_Hora.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Fecha_y_Hora\obj\Debug\net9.0\ref\Fecha_y_Hora.dll
